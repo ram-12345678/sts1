@@ -1,0 +1,5 @@
+gunicorn -c gunicorn_config.py app:app
+https://98.70.15.100:443
+venv
+2024-07-15 is date ko share ka price predict karo or or btao kitna up jayega or kitna down jayega
+aapko future predict karna hai previus data pattern learn karke ham sirf aapko training ko 2024-07-14 tak ka data dunga or apko pattern learn karke mujhe future data ka share price btao is date ka 2024-07-15

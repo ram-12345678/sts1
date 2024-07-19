@@ -4,7 +4,6 @@ from googletrans import Translator
 from gtts import gTTS
 import os
 import uuid
-
 app = Flask(__name__)
 translator = Translator()
 recognizer = sr.Recognizer()
